@@ -1,0 +1,7 @@
+<style>
+  .table-row .table-cell a{ /* selects all link (a) elements inside a table-row class inside a table-cell class (generated names by the plugin) */
+  color: blue; /* Color change */
+  text-decoration: underline; /* adding underline */
+  letter-spacing: -0.5px; /* reducing the kerning of the font, looked a little too spaced out to me */
+}
+</style>
